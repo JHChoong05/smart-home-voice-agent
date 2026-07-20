@@ -93,8 +93,12 @@ SHVA/
 ├── smart_home_voice.py
 │
 ├── esp32/
-│   └── smart_home_voice_agent.ino
+│    └── smart_home_voice_agent/
+│        └── smart_home_voice_agent.ino
 │
+├── Architecture Diagrams.png
+├── .gitignore
+├── LICENSE
 ├── requirements.txt
 └── README.md
 
