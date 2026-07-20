@@ -1,0 +1,12 @@
+flask
+paho-mqtt
+faster-whisper
+openai
+numpy
+scipy
+pydub
+pyttsx3
+pywin32
+
+whisper_env\Scripts\activate
+pip install -r requirements.txt
