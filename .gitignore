@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# Custom Project Additions (Voice AI & IoT)
+# ==========================================
+
+# Local AI Models & Weights (Whisper / Local LLMs)
+models/
+*.pt
+*.bin
+*.safetensors
+*.onnx
+
+# Local Audio Recordings & Transcripts
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+
+# Credentials & API Keys
+.env.local
+config.local.json
+secrets.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
