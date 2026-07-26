@@ -313,8 +313,10 @@ What's the temperature?
 
 # 👨‍💻 Team Member
 
-**JHChoong** &
-**Lizzy913**
+1. CHOONG JUN HONG
+2. TAN YING XI
+3. LIM MENG JIIN
+4. ANY YU YANG
 
 Smart Home Voice Agent (SHVA)
 
