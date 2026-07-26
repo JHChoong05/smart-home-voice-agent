@@ -30,7 +30,7 @@ The system combines Artificial Intelligence with IoT to create a natural human-c
 - Light control
 - Fan control
 - Television control
-- 🎵 Music playback support
+- Music playback support
 - Voice feedback through ESP32 speaker
 - MQTT communication between Python and ESP32
 - Temperature & humidity monitoring
