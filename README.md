@@ -311,9 +311,10 @@ What's the temperature?
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Team Member
 
 **JHChoong**
+**Lizzy913**
 
 Smart Home Voice Agent (SHVA)
 
