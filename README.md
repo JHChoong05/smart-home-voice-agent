@@ -1,10 +1,10 @@
-# 🏠 Smart Home Voice Agent (SHVA)
+# Smart Home Voice Agent (SHVA)
 
 An AI-powered Smart Home Voice Agent that enables users to control home appliances using natural voice commands. The system integrates **Whisper AI**, **Qwen LLM**, **ESP32**, **MQTT**, and a **Flask Web Dashboard** to provide intelligent voice interaction, real-time device monitoring, and remote smart home control.
 
 ---
 
-## 📖 Overview
+## Overview
 
 Smart Home Voice Agent (SHVA) is an intelligent home automation system capable of understanding natural language commands and converting them into hardware control instructions.
 
@@ -22,28 +22,28 @@ The system combines Artificial Intelligence with IoT to create a natural human-c
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎤 Voice command recognition using Whisper AI
-- 🧠 Natural language understanding using Qwen AI
-- 🏡 Intelligent control of home appliances
-- 💡 Light control
-- 🌬️ Fan control
-- 📺 Television control
+- Voice command recognition using Whisper AI
+- Natural language understanding using Qwen AI
+- Intelligent control of home appliances
+- Light control
+- Fan control
+- Television control
 - 🎵 Music playback support
-- 🔊 Voice feedback through ESP32 speaker
-- 📡 MQTT communication between Python and ESP32
-- 🌡️ Temperature & humidity monitoring
-- 📱 Modern Flask Web Dashboard
-- 🌍 Remote access using Cloudflare Tunnel
-- 🎙️ Wake-word detection ("Hey Home")
-- 📋 Real-time activity logging
-- 🌙 Multiple dashboard themes (Sunrise / Dark / Light)
+- Voice feedback through ESP32 speaker
+- MQTT communication between Python and ESP32
+- Temperature & humidity monitoring
+- Modern Flask Web Dashboard
+- Remote access using Cloudflare Tunnel
+- Wake-word detection ("Hey Home")
+- Real-time activity logging
+- Multiple dashboard themes (Sunrise / Dark / Light)
 
-# 🏗 System Architecture
+# System Architecture
 <img width="1536" height="1024" alt="Architecture Diagrams" src="https://github.com/user-attachments/assets/4b6613b0-91b3-4366-80d5-beae33c5650f" />
 
-# ⚙ Technologies Used
+# Technologies Used
 
 ## Artificial Intelligence
 
@@ -73,7 +73,7 @@ The system combines Artificial Intelligence with IoT to create a natural human-c
 
 ---
 
-# 🛠 Hardware Components
+# Hardware Components
 
 - ESP32 Development Board
 - DHT22 Temperature & Humidity Sensor
@@ -86,7 +86,7 @@ The system combines Artificial Intelligence with IoT to create a natural human-c
 - DC Fan
 - TIP31C Transistor
 
-# 📂 Project Structure
+# Project Structure
 SHVA/
 │
 ├── app.py
@@ -102,7 +102,7 @@ SHVA/
 ├── requirements.txt
 └── README.md
 
-# 🚀 Workflow
+# Workflow
 
 1. User speaks a voice command.
 2. Whisper converts speech into text.
@@ -115,7 +115,7 @@ SHVA/
 
 ---
 
-# 📸 Dashboard Features
+# Dashboard Features
 
 The Flask dashboard provides:
 
@@ -130,7 +130,7 @@ The Flask dashboard provides:
 
 ---
 
-# 🌍 Remote Access
+# Remote Access
 
 The dashboard can be securely accessed outside the local network using **Cloudflare Tunnel**.
 
@@ -148,7 +148,7 @@ ESP32
 
 ---
 
-# 📦 Installation
+# Installation
 
 ## 1. Clone Repository
 
@@ -262,7 +262,7 @@ http://localhost:5000
 
 ---
 
-# 🎙 Example Commands
+# Example Commands
 
 ```
 Turn on the light
@@ -284,7 +284,7 @@ What's the temperature?
 
 ---
 
-# 📊 Current Supported Devices
+# Current Supported Devices
 
 | Device | Status |
 |---------|--------|
@@ -297,7 +297,7 @@ What's the temperature?
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Face Recognition
 - Home Security System
@@ -311,7 +311,7 @@ What's the temperature?
 
 ---
 
-# 👨‍💻 Team Member
+# Team Member
 
 1. CHOONG JUN HONG
 2. TAN YING XI
@@ -322,5 +322,5 @@ Smart Home Voice Agent (SHVA)
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
