@@ -316,7 +316,7 @@ What's the temperature?
 1. CHOONG JUN HONG
 2. TAN YING XI
 3. LIM MENG JIIN
-4. ANY YU YANG
+4. ANG YU YANG
 
 Smart Home Voice Agent (SHVA)
 
